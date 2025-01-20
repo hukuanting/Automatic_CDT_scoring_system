@@ -1,0 +1,13 @@
+numpy==1.23.5
+opencv-python==4.8.0.76
+matplotlib==3.7.2
+pillow==10.0.1
+shapely==2.0.1
+scikit-image==0.21.0
+scikit-learn==1.3.0
+pandas==2.1.1
+seaborn==0.12.2
+trimap==1.0
+PyQt5==5.15.9
+PyQt5-sip==12.11.0
+PyQt5-Qt5==5.15.2
